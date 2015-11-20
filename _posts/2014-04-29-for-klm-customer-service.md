@@ -5,7 +5,9 @@ permalink: 2014-04-29-for-klm-customer-service
 ---
 I was called today by a very helpful KLM representative. He admitted that the experience I had was not one that should occur, and apologized for the inconvenience. After talking a bit about the details we were able to put this matter behind us and I am yet again a happy KLM customer. Thank you KLM for resolving this in such a nice manner.
 
+The old blog-post as it was written previously is included below.
 
+----
 
 On the 27th of april 2014 at 12:38 I sent an email to a KLM email about a bad KLM experience I had had. The email address I used was [customercare.management@klm.com](mailto:customercare.management@klm.com) and I had found it on a frequent flyer forum whilst looking for email-addresses KLM customer services could be reached on. After not getting any response or bounce on that email address I contacted [@KLM](http://twitter.com/klm) on twitter and asked if the previously mentioned address was the correct address to use when contacting them by email. This dialogue followed:
 
