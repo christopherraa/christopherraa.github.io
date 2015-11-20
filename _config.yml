@@ -1,0 +1,26 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Christopher Rasch-Olsen Raa
+tagline:          Blog
+url:              http://christopherraa.github.io
+paginate:         10
+baseurl:          /
+author:
+  name:           Christopher Rasch-Olsen Raa
+  url:            https://twitter.com/christopherraa
+  email:          christopher@stix.no
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/christopherraa/christopherraa.github.io
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+
+exclude:
+  - vendor
