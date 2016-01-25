@@ -22,7 +22,7 @@ All in all Pocketgit is the best client I have used on android. All for the pric
 
 Finding a decent editor was something I thought was going to be difficult, but DroidEdit looked capable and I downloaded the free version. It did not disappoint. It is fairly lightweight, can open large(ish) documents without becoming sluggish and is nicely tied in with Pocketgit. So far this post has been written exclusively in DroidEdit. The add placement as illustrated below is driving me absolutely bananas, so I'll go buy the full version. Hang on!
 
-[Ad bonanza](/uploads/2016-01/droidedit-ads.png)
+[Ad bonanza](/public/uploads/2016-01/droidedit-ads.png)
 
 Ok, I'm back. Got the paid version now, for the price of half a cup of coffee.
 
