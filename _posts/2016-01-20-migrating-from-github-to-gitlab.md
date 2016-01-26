@@ -4,7 +4,7 @@ title: Migrating from Github to Gitlab
 permalink: migrating-github-gitlab
 comments: True
 ---
-For the past few years the company I run have been a paying customer at [Github](https://github.com). Generally we've been very satisfied with the service, but we have come to realize that it might be time to move on. If our decision has moved us to greener pastures remains to be seen.
+For the past few years the company I run has been a paying customer at [Github](https://github.com). Generally we've been very satisfied with the service, but we have come to realize that it might be time to move on. If our decision has moved us to greener pastures remains to be seen.
 
 The pros for using Github were:
 
@@ -70,7 +70,7 @@ That was it. This meant that even though the project hosting moved, there was pr
 
 ### Some work importing "cards" from Trello
 
-So, we had this naíve idea that it would be neat to move all Trello cards into Gitlab as issues, as we wanted to use Gitlab for issues as well. Even though Trello has an "Export JSON"-feature it was not an entirely painless process parsing it. After doing some scripting we concluded that it was absolutely feasable, but not worth the effort at that point in time. We instead moved all pending issues manually from Trello to Gitlab. Copy, paste, rinse, repeat. All closed issues were left in Trello. If we need them later we'll probably finish the script and publish it so other people can try it out.
+So, we had this naíve idea that it would be neat to move all Trello cards into Gitlab as issues, as we wanted to use Gitlab for issues as well. Even though Trello has an "Export JSON"-feature it was not an entirely painless process parsing it. After doing some scripting we concluded that it was absolutely feasible, but not worth the effort at that point in time. We instead moved all pending issues manually from Trello to Gitlab. Copy, paste, rinse, repeat. All closed issues were left in Trello. If we need them later we'll probably finish the script and publish it so other people can try it out.
 
 For the curious; as of this writing Gitlab does not have support in their issue-API for backdating issues, which is essential if you want to keep history. Thankfully the database layout is fairly simple and it is trivial to just inject data directly there, which is what our script did.
 
