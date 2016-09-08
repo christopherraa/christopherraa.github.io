@@ -7,6 +7,7 @@ comments: True
 Previously I wrote a post on our companys move from [Github to self hosted Gitlab](/migrating-github-gitlab). As mentioned in the post we were fairly happy with the move at the time, and this post is an attempt at summarize our experience with it now that we've had it running for well over 8 months.
 
 # Using Gitlab
+
 ## Keeping track of issues
 Over all keeping track of issues is not very difficult as the interface has some decent labeling and filter options. There are however some key things that I believe could make it even better.
 
@@ -26,6 +27,7 @@ My experience with filing issues for Gitlab CE and related projects (like Gitlab
 As it currently stands Gitlab has a very well thought out CI system. Yes there are some quirks, _especially_ when it comes to asset/artifact/cache handling, but all in all it works great. It is pretty easy to structure the build pipeline so that it is expressive and efficient. My experience is that you can make it do pretty much whatever you need it to. If you have tried the CI-system a while back then I'd say that chances are that you found the options limited, the documentation poor and the performance awful. That was my first impression of it at least (_way_ back mind you). However the state now is completely different. The documentation has received a **huge** increase in completeness and quality, many more features are now elegantly implemented and the performance is pretty good. This is another testiment to Gitlab and their steady and continuous work on improving their product.
 
 # Managing
+
 ## Stability
 In terms of stability we have had absolutely no problems. Just for testing out we have been running Gitlab on [Digitalocean](https://digitalocean.com] (gotta love those guys) and it has worked out great. No hiccups, no crashed and very little in the form of maintenance has been needed. All in all it just works.
 
